@@ -1,2 +1,2 @@
 ### Hello World 🌱  
-Exploring, experimenting, improving
+Exploring, experimenting, improving.
